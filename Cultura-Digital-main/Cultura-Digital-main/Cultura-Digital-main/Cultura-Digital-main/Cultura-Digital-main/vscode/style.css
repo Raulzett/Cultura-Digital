@@ -1,0 +1,18 @@
+header { background-color: rgb(246, 252, 159);
+       color:rgb(73, 146, 255);}
+body { color: aqua;
+        background-color: rgb(246, 252, 159);}       
+
+    Azul {color:#003cff;}
+    Verde {color: rgb} 
+    Vermelho {color:rgb}
+
+.bolo {
+
+       width: 20%;
+}
+.onde-comprar-salgadinhos-para-festa{ 
+
+       display:flex
+
+}
