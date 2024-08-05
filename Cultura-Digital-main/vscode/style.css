@@ -1,13 +1,18 @@
-header { background-color: rgb(100, 237, 123);
-       color:rgb(255, 47, 47);}
+header { background-color: rgb(246, 252, 159);
+       color:rgb(73, 146, 255);}
 body { color: aqua;
-        background-color: rgb(237, 216, 100);}       
+        background-color: rgb(246, 252, 159);}       
 
     Azul {color:#003cff;}
     Verde {color: rgb} 
     Vermelho {color:rgb}
 
-.Sarsu {
+.bolo {
 
        width: 20%;
+}
+.onde-comprar-salgadinhos-para-festa{ 
+
+       display:flex
+
 }
