@@ -1,5 +1,18 @@
 header { background-color: rgb(246, 252, 159);
-       color:rgb(73, 146, 255);}
+color:rgb(73, 146, 255);
+      display: flex; 
+      justify-content: space-around; 
+      padding: 24px 0;
+      
+       }
+.itens-do-cabeçalho {
+       display: inline-block;
+      margin: 0 16px;
+       padding: 20px 0;
+      font-size: larger
+       
+           }
+
 body { color: aqua;
         background-color: rgb(246, 252, 159);}       
 
